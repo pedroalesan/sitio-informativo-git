@@ -1,0 +1,6 @@
+Objetivo del proyecto: Permitir documentar informacion sobre los entrenamientos de los usuarios.
+Público al que va dirigido: Cualquier usuario del gimnasio.
+Tres características principales:
+1. Interfaz amigable para el usuario
+2. Información sobre la técnica de los ejercicios
+3. Posibilidad de que el usuario añada ejercicios personalizados que no esten incluidos.
